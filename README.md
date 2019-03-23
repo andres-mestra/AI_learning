@@ -1,1 +1,4 @@
-AI_learnig
+# AI_learning
+
+Aprendiendo inteligencia artificial
+
