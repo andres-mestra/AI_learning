@@ -58,3 +58,5 @@ docs/_build/
 target/
 
 supervised/\.ipynb_checkpoints/
+
+\.ipynb_checkpoints/
