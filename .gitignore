@@ -56,3 +56,5 @@ docs/_build/
 
 # PyBuilder
 target/
+
+supervised/\.ipynb_checkpoints/
